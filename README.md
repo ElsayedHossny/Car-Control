@@ -70,5 +70,4 @@ The Raspberry Pi 4 can serve as the central hub for controlling the car. It can:
 - **Car/RaspberryPi/**: This folder contains files related to the Raspberry Pi integration.
 
   - **control.py**: A Python script that controls the car via Bluetooth from the Raspberry Pi. This script can send movement and speed commands to the ATmega32 to control the car.
-ده هيكل المشروع الكامل مع شرح لكل مجلد وملف داخل المشروع. لو عندك أي تعديلات إضافية أو تفاصيل معينة حابب تضيفها، قولي!
 
