@@ -58,7 +58,6 @@ The Raspberry Pi 4 can serve as the central hub for controlling the car. It can:
 
   - **Motor/**: The motor control module handles PWM signals to control the speed and direction of the car's motors.
   - **LCD/**: The LCD interface module is responsible for displaying information such as speed, status, and error messages on a 16x2 LCD.
-  - **Ultrasonic/**: The ultrasonic sensor control module is used to measure the distance in front of the car and prevent collisions.
   - **Bluetooth/**: This module handles Bluetooth communication (using HC-05) between the ATmega32 and external devices like Raspberry Pi or a mobile app.
 
 - **MCAL/**: This folder contains the microcontroller abstraction layers for low-level operations, such as I/O operations, timers, and UART communication.
